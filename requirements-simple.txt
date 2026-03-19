@@ -20,9 +20,8 @@ llama-index-llms-huggingface
 # ML/DL
 torch
 transformers
-numpy<2.0
+numpy
 scikit-learn
 
 # Utilities
 python-dotenv
-
